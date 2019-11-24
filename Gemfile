@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #haml
 gem "haml-rails", ">= 1.0", '<= 2.0.1'
+
+#font-awesome-sass
+gem "font-awesome-sass"
