@@ -9,3 +9,11 @@
     line-height: 90px;
   }
 }
+
+.contents {
+  height: calc(100vh - 90px - 20px);
+  width:900px;
+  margin: 0 auto;
+  background-color: #fffacd;
+}
+
