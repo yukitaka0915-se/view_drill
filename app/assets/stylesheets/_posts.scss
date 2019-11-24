@@ -15,5 +15,11 @@
   width:900px;
   margin: 0 auto;
   background-color: #fffacd;
+  &__message{
+    padding: 40px;
+    color:#ffa500;
+    font-size:30px;
+    text-align: center;
+  }
 }
 
